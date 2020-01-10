@@ -1,0 +1,10 @@
+p {
+  font-family: Lato;
+  color:green;
+  border:1px solid;
+}
+h1 {
+ font-style:  italic ;
+ font-display:  inherit;
+ color:green;
+}
